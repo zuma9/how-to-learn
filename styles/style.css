@@ -30,13 +30,12 @@ logo {
 }
 
 .logo {
-    width: 183px;
     height: 32px;
     background-size: cover;
     background-position: center;
     width: 228px;
-    height: 32px;
 }
+
 .header__logo {
     position:absolute;
     background-image: url(../images/logo_place_header.svg);
@@ -96,12 +95,12 @@ logo {
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 
-.content__image-item {
+/* .content__image-item {
   wigth: 756px;
   hight: 568px;
   position: absolute;
   z-index: 2;
-}
+} */
 
 .technics {
     display: flex;
@@ -237,7 +236,6 @@ logo {
    position: relative;
    align-items: center;
    background-image: url(../images/feynman.png);
-   background-position: center;
    background-repeat: no-repeat;
    background-size: 867px 637px;
    height: 790px;
