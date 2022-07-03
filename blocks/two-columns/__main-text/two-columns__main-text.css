@@ -4,5 +4,5 @@
 }
 
 .two-columns__main-text :last-child {
-	padding-bottom: 0;
+	margin-bottom: 0;
 }

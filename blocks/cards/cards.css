@@ -4,6 +4,8 @@
 	justify-content: flex-start;
 	align-content: flex-start;
 	max-width: 920px;
-	margin: 0 auto;
+	column-gap: 100px;
+	margin: 0 ;
+	padding: 0;
 	flex-direction: row;
 }
