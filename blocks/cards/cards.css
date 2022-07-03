@@ -5,7 +5,7 @@
 	align-content: flex-start;
 	max-width: 920px;
 	column-gap: 100px;
-	margin: 0 ;
+	margin: 0;
 	padding: 0;
 	flex-direction: row;
 }
